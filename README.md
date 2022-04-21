@@ -28,5 +28,5 @@ Step 2: Process Users Comments via RegexTokenizer and Word2Vec
 Step 3: Build and Evaluate Classifiers (Logistic Regression & Random Forest)
 Build classifiers for the cat and dog owners and measure the performance of the classifiers.
 
-Step 4: Extract Insights about Cat And Dog Owners
+Step 4: Extract Insights about Cat And Dog Owners  
 Find topics important to cat and dog owners.
