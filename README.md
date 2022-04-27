@@ -13,12 +13,7 @@ https://drive.google.com/file/d/1o3DsS3jN_t2Mw3TsV0i7ySRmh9kyYi1a/view?usp=shari
 ● userid: integer identifier for the users commenting on the YouTube channels.  
 ● comment: text of the comments made by the users.  
 
-Please use a recent version of PySpark (version 2.2 or higher) to analyze the data. Do not use
-any external libraries; just use the native methods from pyspark.sql and pyspark.ml. (Do not
-use pyspark.mllib as this has been deprecated.) Keep your code clean and efficient, with
-enough documentation so that the grader can easily follow your train of thought. Summarize
-the key results from each step. Explain how to execute your code from a command line
-interface.
+## Step-by-step:  
 
 Step 1: Identify Cat And Dog Owners
 Find the users who are cat and/or dog owners.
