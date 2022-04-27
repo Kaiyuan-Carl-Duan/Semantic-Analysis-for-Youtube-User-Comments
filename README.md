@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1o3DsS3jN_t2Mw3TsV0i7ySRmh9kyYi1a/view?usp=shari
 ● userid: integer identifier for the users commenting on the YouTube channels.  
 ● comment: text of the comments made by the users.  
 
-## Step-by-step:  
+## Steps:  
 
 Step 1: Identify Cat And Dog Owners
 Find the users who are cat and/or dog owners.
